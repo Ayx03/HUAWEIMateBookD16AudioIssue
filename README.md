@@ -5,7 +5,7 @@ Huawei MateBook D 16:
 
 ![](https://github.com/Ayx03/HUAWEIMateBookD16AudioIssue/blob/main/%5BMateBookD16%5DSnipaste_2022-12-21_18-08-54.png)
 
-Huawei Customer Service:
+Huawei Customer Service: Sorry, our laptops can only support 3.5mm headphones, if you need you connect other Type-C headphones, you have to connect Huawei's standard C port headphones.
 
 ![](https://github.com/Ayx03/HUAWEIMateBookD16AudioIssue/blob/main/%E5%8D%8E%E4%B8%BA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%A4%8D%E7%A7%B0%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%BB%85%E6%94%AF%E6%8C%813.5mm%E8%80%B3%E6%9C%BA_QQ%E5%9B%BE%E7%89%8720221225204313.jpg)
 
